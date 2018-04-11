@@ -1,0 +1,32 @@
+<?php
+$lang['guestbook']['name']      = "guestbook";
+$lang['guestbook']['intro']     = "Module to create a guestbook with userentries.";
+$lang['guestbook']['author']    = 'Bas Steelooper';
+$lang['guestbook']['main']      = "guestbook module";
+$lang['guestbook']['pagessite'] = "Create new entry";
+$lang['guestbook']['adminpage'] = "Activate entry";
+$lang['guestbook']['newentry']  = "Create New entry";
+$lang['guestbook']['title']     = "Entrytitle";
+$lang['guestbook']['email']     = "Email address";
+$lang['guestbook']['descr']     = "Sitedescription";
+$lang['guestbook']['send']      = "Send entry";
+$lang['guestbook']['fillall']   = "You didn't fill all fields.";
+$lang['guestbook']['nohtml']    = "HTML-Tags in entries are not allowed";
+$lang['guestbook']['activate']  = "Activate entry";
+$lang['guestbook']['delete']    = "Delete entry";
+$lang['guestbook']['deleted']   = " was deleted from system.";
+$lang['guestbook']['backlink']  = "Back to main page";
+$lang['guestbook']['wsend']     = "Your entry was send to the administration console.";
+$lang['guestbook']['msubject']  = "New entry to guestbook";
+$lang['guestbook']['mail']      = "A New entry was send to your page:";
+$lang['guestbook']['mail_tit']  = "Entrytitle:";
+$lang['guestbook']['mail_dis']  = "Description:";
+$lang['guestbook']['mail_email']= "Email address:";
+$lang['guestbook']['exhead']    = "Disclaimer";
+$lang['guestbook']['exredir']   = "You will be redirected to";
+$lang['guestbook']['adminset']  = "Settings for your guestbook";
+$lang['guestbook']['pageis']    = "Disclaimer Page";
+$lang['guestbook']['settings']  = "Settings";
+$lang['guestbook']['save']      = "Save Settings";
+$lang['guestbook']['distext']   = "Enter your Disclaimertext here"
+?>
